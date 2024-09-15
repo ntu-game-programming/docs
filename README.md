@@ -3,7 +3,7 @@
 ## 1. 常用連結
 
 - [課程大綱](https://docs.google.com/presentation/d/1krKr0OdGR10qgUeqE6tbULMVW2ATPSr2tzoz90cVzog/pub?start=false&loop=false&delayms=3000&slide=id.p)
-- [Google Drive](https://github.com/)   
+- [Google Drive](https://drive.google.com/drive/folders/1nNgHqLPPTj1exCAJtX3XxMzU9nOxiPH9?usp=sharing)
 
 ## 2. 重要日期
 
