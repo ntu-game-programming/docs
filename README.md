@@ -4,6 +4,7 @@
 
 - [課程大綱](https://docs.google.com/presentation/d/1krKr0OdGR10qgUeqE6tbULMVW2ATPSr2tzoz90cVzog/pub?start=false&loop=false&delayms=3000&slide=id.p)
 - [Google Drive](https://drive.google.com/drive/folders/1nNgHqLPPTj1exCAJtX3XxMzU9nOxiPH9?usp=sharing)
+- [提案報告文件](https://docs.google.com/document/d/13FGwkP3y7VyMErtGgeR99rVdRfxeZmFGPtN8chSEnrQ/edit)
 
 ## 2. 重要日期
 
